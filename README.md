@@ -28,4 +28,4 @@ Evaluation criteria is AUC ROC score. For more information about this metric, [r
 
 This problem was taken from a online competition called [IndiaHacks 2017 : Machine Learnng](https://www.hackerearth.com/problem/machine-learning/predict-the-segment-hotstar/), on Hackerearth.
 
-Final score was 0.79657.
+Final score was <b>0.79657.</b>
